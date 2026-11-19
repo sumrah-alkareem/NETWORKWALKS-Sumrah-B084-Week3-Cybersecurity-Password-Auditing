@@ -52,12 +52,23 @@ This week's work was divided into two practical modules:
 | My Locked PDF2.pdf | hash2.txt | `password1` | Successfully verified |
 | My Locked PDF3.pdf | hash3.txt | `1qaz2wsx` | Successfully verified |
 
-**Evidence and Screenshots**
+### Evidence and Screenshots
 
-- `pdf1.png` – Johnny configuration and setup.
-- `pdf2.png` – Password recovery result.
-- `flag1.jpg` – Verification flag from the first PDF.
-- `flag2.jpg` – Verification flag from the second PDF.
+**1. Johnny Configuration and Setup**
+
+![Johnny Setup](pdf1.png)
+
+**2. Successful Password Recovery**
+
+![Password Recovery](pdf2.png)
+
+**3. Flag Captured from PDF 1**
+
+![Flag 1](flag1.jpg)
+
+**4. Flag Captured from PDF 2**
+
+![Flag 2](flag2.jpg)
 
 ---
 
@@ -75,12 +86,15 @@ This week's work was divided into two practical modules:
 6. Opened the protected PDF and verified its embedded flag.
 7. Compared the earlier PDF recovery results with the Networkwalks platform.
 
-**Evidence and Screenshots**
+### Evidence and Screenshots
 
-- `hashcalculator.jpg` – Networkwalks Hash Calculator interface.
-- `pdfhashextractor.jpg` – PDF hash extraction process.
-- `passwordcracking.jpg` – Dictionary attack and recovered password.
-- `flag1pm2.jpg` – Final verification flag.
+**1. Networkwalks Hash Calculator**
+
+![Networkwalks Hash Calculator](networkwalks%20hash%20calculator.png)
+
+**2. Networkwalks Password Cracker**
+
+![Password Cracker](network%20walks%20password%20cracker.png)
 
 ---
 
