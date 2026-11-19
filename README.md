@@ -56,7 +56,7 @@ This week's work was divided into two practical modules:
 
 **1. Johnny Configuration and Setup**
 
-![Johnny Setup](pdf1 .png)
+![Johnny Setup](pdf1%20.png)
 
 **2. Successful Password Recovery**
 
